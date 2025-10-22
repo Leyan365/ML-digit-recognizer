@@ -15,18 +15,22 @@ Two models were developed and submitted:
 | Random Forest | Scikit-learn | **0.96257** |
 | CNN (Keras) | Deep Learning | **0.98746** |
 
+---
 
-🧩 Models
----------
+## 🧩 Models
 
-*   **Random Forest:** Simple baseline using pixel intensity features.
-    
-*   **CNN (Keras):** 3-layer convolutional neural network with ReLU activations and dropout regularization.
-    
+- **Random Forest:** Simple baseline using pixel intensity features.  
+- **CNN (Keras):** 3-layer convolutional neural network with ReLU activations and dropout regularization.
 
-🏆 Results
-----------
+---
 
-*   **Random Forest:** 96.257%
-    
-*   **CNN (Keras):** 98.746%Both models were successfully submitted via the Kaggle CLI.
+## 🏆 Results
+
+- **Random Forest:** 96.257%  
+- **CNN (Keras):** 98.746%  
+
+Both models were successfully submitted via the Kaggle CLI.
+
+---
+
+📎 **Competition Link:** [Kaggle — Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
